@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">viewChange</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 화면전환을 위한 strings -->
+    <string name="go_home">홈으로</string>
+    <string name="go_view1">화면1로</string>
+    <string name="go_view2">화면2로</string>
+
+</resources>
